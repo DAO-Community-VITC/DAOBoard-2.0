@@ -4,7 +4,9 @@ import React from 'react'
 function Logo() {
   return (
     <>
-      <img src='/logo.png' alt="Logo" className='w-16'/>
+      <a href='/'>
+        <img src='/logo.png' alt="Logo" className='w-12' />
+      </a>
     </>
   )
 }
