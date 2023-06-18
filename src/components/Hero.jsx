@@ -19,7 +19,7 @@ function Header() {
             <span></span>
             View Leaderboard
           </a>
-          <div className='group flex items-center justify-center gap-2 transition-all duration-300 text-sm'>
+          <div className='group flex items-center justify-center transition-all duration-300 text-sm'>
                 <a href="/" className="text-white monda uppercase group-hover:underline group-hover:underline-offset-8 group-hover:decoration-[#09BC8A]">
                     Register for Leaderboard
                 </a>
