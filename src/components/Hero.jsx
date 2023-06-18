@@ -5,10 +5,10 @@ function Header() {
   return (
     <div className='header h-screen w-screen '>
       <div className='flex items-center justify-center flex-col w-full h-full gap-4'>
-        <h1 className='dao-name text-white text-2xl font-light'>
+        <h1 className='monda text-white text-2xl font-light'>
           DAO COMMUNITY VITC
         </h1>
-        <h2 className='leaderboard text-white text-9xl'>
+        <h2 className='jackhill text-white text-9xl'>
           LEADERBOARD
         </h2>
       </div>

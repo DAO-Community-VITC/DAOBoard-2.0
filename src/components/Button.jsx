@@ -3,14 +3,22 @@ import '../App.css'
 
 function Button() {
     return (
-        <div>
-            <a href="/" className="animated-button6">
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                CONNECT WALLET
-            </a>
+        <div className='flex items-center justify-center gap-4'>
+            <div>
+                <a href="/" className="text-white monda uppercase text-xs">
+                    Mumbai Faucet
+                </a>
+            </div>
+            <div>
+                <a href="/" className="animated-button6 monda uppercase text-xs">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    Connect Wallet
+                </a>
+            </div>
+
         </div>
     )
 }
