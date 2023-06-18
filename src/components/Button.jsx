@@ -4,7 +4,7 @@ import '../App.css'
 function Button() {
     return (
         <div>
-            <a href="/" className="animated-button1">
+            <a href="/" className="animated-button6">
                 <span></span>
                 <span></span>
                 <span></span>

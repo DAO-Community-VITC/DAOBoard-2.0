@@ -1,8 +1,11 @@
 import React from 'react'
 
+
 function Logo() {
   return (
-    <div className='text-white'>Logo</div>
+    <>
+      <img src='/logo.png' alt="Logo" className='w-16'/>
+    </>
   )
 }
 
